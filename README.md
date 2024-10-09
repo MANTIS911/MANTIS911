@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MANTIS911
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning THe basics of CSS
+- 🌱 I’m currently learning The basics of CSS
 - 😄 Pronouns: He/Him/Coding
 - ⚡ Fun fact: I love sports
 
